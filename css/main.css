@@ -1,0 +1,16 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #ff4d44;
+    color: #3f3f3f;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
+#carouselExampleIndicators img {
+    width: auto;
+    height: 450px;
+    max-height: 450px;
+}
